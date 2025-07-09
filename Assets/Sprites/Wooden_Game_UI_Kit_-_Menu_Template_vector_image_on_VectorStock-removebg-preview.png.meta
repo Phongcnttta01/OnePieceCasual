@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: b879d53e4fcd7d744ae2d3b1e59a6706
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 253
+        width: 229
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4150bdbde8cd9342922016efa89ca61
+      internalID: 2022049676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 367
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eff8ed76bdead4685147d201ec4b87
+      internalID: -1309296178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 367
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004ab0f1366637d4290b5ce8bf3b8858
+      internalID: 1957274730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 367
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb1e29654711484781413f0209ccfbf
+      internalID: -1702527421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 367
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d6f29659a8a9c4ba200e8705f88f2c
+      internalID: 898131422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 367
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6d4962fc4540946a94a6e32b19e7fe
+      internalID: 1252199395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 367
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5a79375fb2a147bcff1403bb6c7d3
+      internalID: -356861765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 311
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a3232f4e7a41d4dac314eecc599d2c
+      internalID: -1642455541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 311
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e083e62a52c218343bd3c3b1d6886c0c
+      internalID: 1959729689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 311
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d9d022756a9a5449c56e69fc558e83
+      internalID: 578585747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 311
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f304e4daff9aadb43903fa3a92fe700d
+      internalID: 710667434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 311
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937aa6be87a10284d9a07bdcb2e3acd4
+      internalID: 166573119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 311
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f1239af994c2419c27ca1e50bdcc9
+      internalID: -1296179252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e89534bc44c2e4ca05381b72c97ad0
+      internalID: 941661487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 255
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b311fb5f350e704a8e3317c0ed19d2d
+      internalID: 392358037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 255
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf553818aa87e84bb041d79901477c6
+      internalID: 305480509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 255
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b327ea16660704599f590632fac2ad
+      internalID: 1432383105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 255
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b86bcbe1334f39438150b4dc1b4d067
+      internalID: 1198256604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 255
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5517a57081c4194a9b8972b5a5f0d4f
+      internalID: -759852464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 81
+        width: 211
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305adae4ddb84cf41b4705c086fddbf1
+      internalID: -791307953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 191
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b25b802a04fb32458715d6335eb58d3
+      internalID: 684545124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 191
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4f6955d34c2424fb4c5face1c62338
+      internalID: 290120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 191
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0420206197fda47a37c197f506e6dc
+      internalID: 988877027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 191
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde614fdfa9c9b047a5c2ef5651a0cf0
+      internalID: 1375113533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 191
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246005531dc405e4d96b43303c7a15aa
+      internalID: 1455097641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 191
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d9ffe08474b814ea02cd09d9b1c47a
+      internalID: -625515240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 136
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c3cded42c2b149a02dc9460409bb9
+      internalID: -889254907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 136
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e07794adde0da488a94a8be2971ead
+      internalID: -844118694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 136
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab39fb63f85034eaef2c69bcdaf935
+      internalID: 23584234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 136
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3645f34eb6a794aa3c811d04963fed
+      internalID: -952617094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 136
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d8b5fb407dbdb478d033cea5522526
+      internalID: 1102396801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 136
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713eef9a981eed7449d6b379d490b65b
+      internalID: -1816538085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 80
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec25cc9adcc20ed4a9ac6e796f5551ec
+      internalID: 1920676183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81e209e8e3e52f45b0f739ae1f9f299
+      internalID: -1462114871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 80
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82986f99a82092458fce8e4b52881bc
+      internalID: -1955181472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 80
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e82c0fa84deca14f8290789e6c3687c
+      internalID: 1637237557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 80
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664ca930e7df874d949a1f2ebac13d9
+      internalID: -961336165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd78b71e283a5b64a9f20514d02e5b22
+      internalID: 1458980561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_0: 2022049676
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_1: -1309296178
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_10: 710667434
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_11: 166573119
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_12: -1296179252
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_13: 941661487
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_14: 392358037
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_15: 305480509
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_16: 1432383105
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_17: 1198256604
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_18: -759852464
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_19: -791307953
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_2: 1957274730
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_20: 684545124
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_21: 290120
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_22: 988877027
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_23: 1375113533
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_24: 1455097641
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_25: -625515240
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_26: -889254907
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_27: -844118694
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_28: 23584234
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_29: -952617094
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_3: -1702527421
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_30: 1102396801
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_31: -1816538085
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_32: 1920676183
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_33: -1462114871
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_34: -1955181472
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_35: 1637237557
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_36: -961336165
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_37: 1458980561
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_4: 898131422
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_5: 1252199395
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_6: -356861765
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_7: -1642455541
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_8: 1959729689
+      Wooden_Game_UI_Kit_-_Menu_Template_vector_image_on_VectorStock-removebg-preview_9: 578585747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
